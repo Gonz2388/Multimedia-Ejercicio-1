@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+    <head>
+    <title>Multimedia-Ejercicio 1</title>
+    </head>
+    <body>
+<section>
+    <h1>Aprendiendo a utilizar imágenes</h1>
+    <img src="https://media.contentapi.ea.com/content/dam/ea/fifa/fifa-23/shared-assets/images/fifa-23-featured-image.png.adapt.crop191x100.1200w.png" alt="Logo FIFA 23" width="450" height="300"/>
+</section>
+<section>
+    <h1>Aprendiendo a utilizar los vídeos</h1>
+    <video width="400" height="300" controls autoplay loop muted>
+        <source src="Valencia CF vs FC Barcelona.mp4"/>
+    </video>
+</section>
+<section>
+    <h1>Aprendiendo a utilizar los audios</h1>
+    <audio controls autoplay loop>
+        <source src="2009 UEFA Champions League Final.mp3" type="audio/mp3" />
+    </audio>
+</section>
+    </body>
+</html>
